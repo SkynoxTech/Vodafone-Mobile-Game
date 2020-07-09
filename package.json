@@ -1,0 +1,25 @@
+{
+  "name": "voda-game-demo-lib",
+  "version": "1.0.0",
+  "description": "demo package for internal project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/SkynoxTech/voda-game-demo-lib.git"
+  },
+  "keywords": [
+    "ui-voda"
+  ],
+  "author": "Narender Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SkynoxTech/voda-game-demo-lib/issues"
+  },
+  "homepage": "https://github.com/SkynoxTech/voda-game-demo-lib#readme",
+  "devDependencies": {
+    "metro-react-native-babel-preset": "^0.60.0"
+  }
+}
